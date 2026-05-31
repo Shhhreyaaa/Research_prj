@@ -1,0 +1,9 @@
+Timestamp,Question,Chunk Size,Retrieval Latency,Generation Latency,Total Latency,Number of Retrieved Chunks
+2026-05-31 15:49:41,What problem does this paper solve?,512,0.0748,0.0,0.0748,4
+2026-05-31 15:50:38,What problem does this paper solve?,512,0.0454,0.0,0.0454,4
+2026-05-31 17:38:57,What problem does this paper solve?,512,0.0601,0.6943,0.7544,4
+2026-05-31 17:41:52,What problem does this paper solve?,512,0.0761,6.0167,6.0928,4
+2026-05-31 17:42:57,What is RAG?,512,0.0489,5.5552,5.6041,4
+2026-05-31 17:44:06,what is rag?,256,0.0479,6.5085,6.5564,4
+2026-05-31 17:44:18,what is rag?,512,0.0258,7.3426,7.3685,4
+2026-05-31 17:44:29,what is rag?,1024,0.0255,7.8109,7.8363,4
