@@ -289,40 +289,17 @@ This ensures:
 ---
 
 # 📸 Screenshots
+![Upload](rag-research-lab/screenshots/upload.png)
 
-## Document Upload & Processing
+![Chunking](rag-research-lab/screenshots/chunking.png)
 
-![Upload](screenshots/upload.png)
+![QA](rag-research-lab/screenshots/qa.png)
 
----
+![Evaluation](rag-research-lab/screenshots/evaluation1.png)
 
-## Vector Database Creation
+![Evaluation](rag-research-lab/screenshots/evaluation2.png)
 
-![Chunking](screenshots/chunking.png)
-
----
-
-## Question Answering
-
-![QA](screenshots/qa.png)
-
----
-
-## Evaluation Dashboard
-
-![Evaluation Dashboard](screenshots/evaluation1.png)
-
----
-
-## Retrieval Performance
-
-![Evaluation Dashboard](screenshots/evaluation2.png)
-
----
-
-## Latency Analysis
-
-![Evaluation Dashboard](screenshots/evaluation3.png)
+![Evaluation](rag-research-lab/screenshots/evaluation3.png)
 
 ---
 
